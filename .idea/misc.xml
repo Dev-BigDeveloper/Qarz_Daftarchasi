@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/QarzDaftarchasi/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1225" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/QarzDaftarchasi/app/src/main/res/drawable/button_customer_registration.xml" value="0.131" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/QarzDaftarchasi/app/src/main/res/drawable/circle_button_customer.xml" value="0.1225" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/QarzDaftarchasi/app/src/main/res/drawable/elevetion_button.xml" value="0.1225" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/QarzDaftarchasi/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1225" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/QarzDaftarchasi/app/src/main/res/drawable/ic_baseline_data_saver_on_24.xml" value="0.1225" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/QarzDaftarchasi/app/src/main/res/drawable/ic_baseline_diversity_2_24.xml" value="0.1225" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/QarzDaftarchasi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1225" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/QarzDaftarchasi/app/src/main/res/drawable/ic_save_money.xml" value="0.1225" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/QarzDaftarchasi/app/src/main/res/drawable/liner_laout_corners.xml" value="0.131" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/QarzDaftarchasi/app/src/main/res/layout/activity_main.xml" value="0.18157894736842106" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/QarzDaftarchasi/app/src/main/res/layout/dialog_view.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/QarzDaftarchasi/app/src/main/res/layout/fragment_add_user.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/QarzDaftarchasi/app/src/main/res/layout/fragment_ber_money.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/QarzDaftarchasi/app/src/main/res/layout/fragment_controller.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/QarzDaftarchasi/app/src/main/res/layout/fragment_ol_money.xml" value="0.165625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/QarzDaftarchasi/app/src/main/res/layout/user_item.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/QarzDaftarchasi/app/src/main/res/menu/menu.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

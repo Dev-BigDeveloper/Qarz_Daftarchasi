@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragmentMenu1"
+        android:icon="@drawable/ic_baseline_diversity_2_24"
+        android:title="Berilganlar"
+        android:orderInCategory="1"/>
+    <item
+        android:id="@+id/fragmentMenu2"
+        android:icon="@drawable/ic_earnings"
+        android:title="Olinganlar"
+        android:orderInCategory="2"/>
+    <item
+        android:id="@+id/fragmentMenu3"
+        android:icon="@drawable/ic_baseline_data_saver_on_24"
+        android:title="Nomalum"
+        android:orderInCategory="3"/>
+    <item
+        android:id="@+id/fragmentMenu4"
+        android:icon="@drawable/ic_baseline_data_saver_on_24"
+        android:title="Nomalum"
+        android:orderInCategory="4"/>
+</menu>
